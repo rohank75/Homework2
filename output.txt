@@ -1,0 +1,4 @@
+C:\Users\rohank\.jdks\openjdk-17.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.3\lib\idea_rt.jar=59847:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\rohank\IdeaProjects\Homework2\out\production\Homework2 Main
+Hello, World!
+
+Process finished with exit code 0
